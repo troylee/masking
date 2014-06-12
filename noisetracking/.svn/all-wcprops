@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/173/trunk/masking/noisetracking
+END
+martin_estimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/173/trunk/masking/noisetracking/martin_estimation.m
+END
+imcra_estimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/173/trunk/masking/noisetracking/imcra_estimation.m
+END
+noise_estimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/173/trunk/masking/noisetracking/noise_estimation.m
+END
+initialise_parameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/173/trunk/masking/noisetracking/initialise_parameters.m
+END
+mcra_estimation.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/173/trunk/masking/noisetracking/mcra_estimation.m
+END

@@ -1,0 +1,1307 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/165/trunk/masking/voicebox
+END
+activlev.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/activlev.m
+END
+importsii.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/importsii.m
+END
+cep2pow.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/cep2pow.m
+END
+pow2cep.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/pow2cep.m
+END
+overlapadd.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/overlapadd.m
+END
+sapisynth.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/sapisynth.m
+END
+readhtk.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readhtk.m
+END
+lpclo2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpclo2rf.m
+END
+rotro2pl.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotro2pl.m
+END
+zoomfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/zoomfft.m
+END
+lpcbwexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcbwexp.m
+END
+melbankm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/melbankm.m
+END
+lpcrr2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrr2ar.m
+END
+rotmr2qr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotmr2qr.m
+END
+winenvar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/winenvar.m
+END
+lpczz2cc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpczz2cc.m
+END
+windows.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/windows.m
+END
+quadpeak.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/quadpeak.m
+END
+readaif.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readaif.m
+END
+lpcdb2pf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcdb2pf.m
+END
+lpcpz2zz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcpz2zz.m
+END
+lpcar2ff.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2ff.m
+END
+sigma.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/sigma.m
+END
+xyzticksi.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/xyzticksi.m
+END
+lpcff2pf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcff2pf.m
+END
+lin2pcma.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lin2pcma.m
+END
+zerocros.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/zerocros.m
+END
+lpcifilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcifilt.m
+END
+txalign.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/txalign.m
+END
+lpczz2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpczz2ar.m
+END
+frq2mel.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/frq2mel.m
+END
+lpccovar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccovar.m
+END
+lpcim2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcim2ar.m
+END
+bitsprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/bitsprec.m
+END
+melcepst.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/melcepst.m
+END
+stdspectrum.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/masking/voicebox/stdspectrum.m
+END
+voicebox.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/voicebox.m
+END
+psycestu.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/psycestu.m
+END
+kmeanlbg.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/kmeanlbg.m
+END
+rotro2eu.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotro2eu.m
+END
+spgrambw.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/spgrambw.m
+END
+lpcaa2dl.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcaa2dl.m
+END
+lpcls2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcls2ar.m
+END
+distitar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distitar.m
+END
+rotpl2ro.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotpl2ro.m
+END
+usasi.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/usasi.m
+END
+huffman.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/huffman.m
+END
+ccwarpf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/ccwarpf.m
+END
+choosrnk.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/choosrnk.m
+END
+frac2bin.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/frac2bin.m
+END
+figbolden.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/figbolden.m
+END
+lin2pcmu.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lin2pcmu.m
+END
+lpcar2cc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2cc.m
+END
+readwav.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readwav.m
+END
+lpcrf2aa.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2aa.m
+END
+lpczz2ss.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpczz2ss.m
+END
+psycest.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/psycest.m
+END
+rotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotation.m
+END
+gaussmixd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/gaussmixd.m
+END
+lpcla2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcla2rf.m
+END
+estnoisem.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/estnoisem.m
+END
+potsband.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/potsband.m
+END
+lpccc2cc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccc2cc.m
+END
+windinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/windinfo.m
+END
+rotqr2qc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqr2qc.m
+END
+xticksi.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/xticksi.m
+END
+yticksi.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/yticksi.m
+END
+gaussmixp.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/gaussmixp.m
+END
+rotqr2eu.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqr2eu.m
+END
+lpcis2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcis2rf.m
+END
+cblabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/cblabel.m
+END
+rsfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/rsfft.m
+END
+distispf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distispf.m
+END
+fram2wav.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/fram2wav.m
+END
+readsph.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readsph.m
+END
+readsfs.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readsfs.m
+END
+lpcar2db.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2db.m
+END
+lpccc2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccc2ar.m
+END
+rotqc2mc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqc2mc.m
+END
+lpcpp2cw.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcpp2cw.m
+END
+psycdigit.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/psycdigit.m
+END
+skew3d.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/skew3d.m
+END
+readflac.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/readflac.m
+END
+distchar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distchar.m
+END
+fopenmkd.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/fopenmkd.m
+END
+findpeaks.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/findpeaks.m
+END
+lpcrf2la.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2la.m
+END
+lpcar2ra.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2ra.m
+END
+filtbankm.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/filtbankm.m
+END
+fxpefac.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/fxpefac.m
+END
+lpccc2db.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccc2db.m
+END
+imagehomog.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/imagehomog.m
+END
+midi2frq.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/midi2frq.m
+END
+lpccw2zz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccw2zz.m
+END
+gammabank.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/gammabank.m
+END
+peak2dquad.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/peak2dquad.m
+END
+lpcdl2aa.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcdl2aa.m
+END
+lpcrand.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrand.m
+END
+lpcar2pp.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2pp.m
+END
+glotlf.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/glotlf.m
+END
+maxgauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/maxgauss.m
+END
+lpcpf2rr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcpf2rr.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/Contents.m
+END
+snrseg.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/snrseg.m
+END
+frq2erb.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/frq2erb.m
+END
+erb2frq.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/erb2frq.m
+END
+finishat.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/finishat.m
+END
+pcma2lin.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/pcma2lin.m
+END
+lpcrf2ar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2ar.m
+END
+dlyapsq.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/dlyapsq.m
+END
+modspect.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/modspect.m
+END
+m2htmlpwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/m2htmlpwd.m
+END
+histndim.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/histndim.m
+END
+polygonarea.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/masking/voicebox/polygonarea.m
+END
+psychofunc.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/psychofunc.m
+END
+rotqr2ax.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqr2ax.m
+END
+lpcra2pp.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcra2pp.m
+END
+qrmult.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/qrmult.m
+END
+readcnx.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/readcnx.m
+END
+kmeanhar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/kmeanhar.m
+END
+rotqr2mr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqr2mr.m
+END
+pcmu2lin.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/pcmu2lin.m
+END
+ditherq.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/ditherq.m
+END
+entropy.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/entropy.m
+END
+readau.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/readau.m
+END
+lpcconv.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcconv.m
+END
+teager.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/teager.m
+END
+qrabs.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/qrabs.m
+END
+upolyhedron.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/masking/voicebox/upolyhedron.m
+END
+mel2frq.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/mel2frq.m
+END
+choosenk.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/choosenk.m
+END
+ewgrpdel.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/ewgrpdel.m
+END
+minspane.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/minspane.m
+END
+frq2bark.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/frq2bark.m
+END
+lpcar2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2rf.m
+END
+sprintsi.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/sprintsi.m
+END
+rotqc2qr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqc2qr.m
+END
+dypsa.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/dypsa.m
+END
+filterbank.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/filterbank.m
+END
+randvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/randvec.m
+END
+lpcar2ls.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2ls.m
+END
+distisar.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distisar.m
+END
+gausprod.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/gausprod.m
+END
+polygonxline.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/165/trunk/masking/voicebox/polygonxline.m
+END
+lpcar2rr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2rr.m
+END
+rotqr2ro.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotqr2ro.m
+END
+nearnonz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/nearnonz.m
+END
+rdct.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/165/trunk/masking/voicebox/rdct.m
+END
+disteusq.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/disteusq.m
+END
+writehtk.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/writehtk.m
+END
+randfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/randfilt.m
+END
+specsub.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/specsub.m
+END
+irdct.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/irdct.m
+END
+randiscr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/randiscr.m
+END
+unixwhich.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/unixwhich.m
+END
+logsum.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/logsum.m
+END
+lognmpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lognmpdf.m
+END
+lpcar2zz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2zz.m
+END
+lpcrf2ao.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2ao.m
+END
+lpcao2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcao2rf.m
+END
+soundspeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/soundspeed.m
+END
+bark2frq.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/bark2frq.m
+END
+enframe.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/enframe.m
+END
+frq2midi.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/frq2midi.m
+END
+hostipinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/165/trunk/masking/voicebox/hostipinfo.m
+END
+lpcaa2ao.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcaa2ao.m
+END
+lpcrr2am.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrr2am.m
+END
+lpcrf2is.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2is.m
+END
+distitpf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distitpf.m
+END
+gmmlpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/gmmlpdf.m
+END
+rotmc2qc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotmc2qc.m
+END
+rhartley.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rhartley.m
+END
+atan2sc.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/atan2sc.m
+END
+sigalign.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/sigalign.m
+END
+ssubmmse.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/ssubmmse.m
+END
+rectifyhomog.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/165/trunk/masking/voicebox/rectifyhomog.m
+END
+gaussmix.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/gaussmix.m
+END
+rfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/165/trunk/masking/voicebox/rfft.m
+END
+permutes.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/permutes.m
+END
+maxfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/maxfilt.m
+END
+rnsubset.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rnsubset.m
+END
+lpcar2fm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2fm.m
+END
+qrdivide.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/qrdivide.m
+END
+momfilt.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/momfilt.m
+END
+lpcauto.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcauto.m
+END
+writewav.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/writewav.m
+END
+lpcar2pf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2pf.m
+END
+dualdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/dualdiag.m
+END
+irfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/165/trunk/masking/voicebox/irfft.m
+END
+lpcfq2zz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcfq2zz.m
+END
+meansqtf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/meansqtf.m
+END
+kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/kmeans.m
+END
+ldatrace.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/ldatrace.m
+END
+specsubm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/specsubm.m
+END
+roteu2qr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/roteu2qr.m
+END
+lpcrf2lo.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2lo.m
+END
+sphrharm.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/sphrharm.m
+END
+glotros.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/glotros.m
+END
+lpcss2zz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcss2zz.m
+END
+rotro2qr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/rotro2qr.m
+END
+lpcaa2rf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcaa2rf.m
+END
+flac.exe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/flac.exe
+END
+readshort.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/165/trunk/masking/voicebox/readshort.m
+END
+lpcpf2cc.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcpf2cc.m
+END
+lpccc2pf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpccc2pf.m
+END
+lpcrf2rr.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcrf2rr.m
+END
+lpcar2am.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2am.m
+END
+vadsohn.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/vadsohn.m
+END
+distchpf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/distchpf.m
+END
+fxrapt.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/165/trunk/masking/voicebox/fxrapt.m
+END
+lpcra2pf.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcra2pf.m
+END
+lpcar2im.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcar2im.m
+END
+polygonwind.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/masking/voicebox/polygonwind.m
+END
+lpcpp2pz.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/lpcpp2pz.m
+END
+schmitt.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/165/trunk/masking/voicebox/schmitt.m
+END
+zerotrim.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/165/trunk/masking/voicebox/zerotrim.m
+END
+correlogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/165/trunk/masking/voicebox/correlogram.m
+END

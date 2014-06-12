@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/169/trunk/masking/gammatonebank
+END
+MakeErbCFs.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/169/trunk/masking/gammatonebank/MakeErbCFs.m
+END
+gammatonebank.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169/trunk/masking/gammatonebank/gammatonebank.m
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/169/trunk/masking/gammatonebank/license.txt
+END
+gammatone.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/169/trunk/masking/gammatonebank/gammatone.m
+END
+HzToErbRate.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/169/trunk/masking/gammatonebank/HzToErbRate.m
+END
+ErbRateToHz.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/169/trunk/masking/gammatonebank/ErbRateToHz.m
+END
