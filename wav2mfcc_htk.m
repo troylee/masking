@@ -54,6 +54,10 @@ inds=(1:windowsize);
 dataFrm=s(indf(:,ones(1,windowsize))+inds(ones(numfrm,1),:));
 
 %%%%%%%%%  Pre-Processing
+% ZMEANSOURCE - revmoe dc offset 
+dc=mean(dataFrm, 2);
+dataFrm=dataFrm - dc(:, ones(1,windowsize));
+
 % pre-emphasise
 preEmphmat=eye(windowsize);
 preEmphmat(1,1)=1-preEmph;
